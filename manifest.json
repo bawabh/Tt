@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft Mobile Ultra",
+  "short_name": "Minecraft",
+  "start_url": "./Mine.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#7ec0ee",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Minecraft_cube.svg/192px-Minecraft_cube.svg.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Minecraft_cube.svg/512px-Minecraft_cube.svg.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
